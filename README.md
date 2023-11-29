@@ -24,4 +24,5 @@ How To Install in Termux ;
               cd SILITC2
               unzip SILIT C2.zip
               cd SILIT C2
+              chmod +x *
               python SILITC2.py
